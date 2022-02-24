@@ -1,2 +1,2 @@
-# edu-plsql
-Educational repo for Oracle PL-SQL
+# edu-sql
+Educational repo for Oracle PL-SQL / MS T-SQL
